@@ -1,9 +1,7 @@
-[HOME](.) | [LOG](TXT/mylog.txt)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/deyuna/os212/)
 
 # Hello, World!
 
 ## Deyuna
 
-Checkout my top 10 links every week:
 
-1. [Week 01](W01/)
