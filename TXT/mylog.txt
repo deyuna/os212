@@ -1,12 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  10 L00 Github related
+ZCZC W00  10 L03 Github related
 ZCZC W00  20 L01 Scele and Discord server related
-ZCZC W00  20 L02 Github related
+ZCZC W00  20 L03 Github related
 ZCZC W00  40 L03 GitHub pages related
-ZCZC W00 120 L04 Zoom OS related
+ZCZC W00 120 L00 Zoom OS related
 ZCZC W00  60 L05 Prepare for Week 00
 ZCZC W00 120 L70 Do MPPI forums, SDA lab and checkpoint, PBP essay, Alin forum
 ZCZC W01 100 L02 Zoom meeting
-ZCZC W01 120 L06 Do W01 Assignment
+ZCZC W01  15 L22 OS Quiz
+ZCZC W01 300 L09 Do W01 Assignment
+ZCZC W01 100 L86 Do House chore
