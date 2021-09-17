@@ -1,6 +1,6 @@
 # Deyuna's OS212 Repository
  
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/deyuna/os212/)
+[HOME](.) | [LOG](https://github.com/deyuna/os212/blob/main/TXT/mylog.txt) | [LINKS](https://github.com/deyuna/os212/blob/main/links.md) | [Github Repository](https://github.com/deyuna/os212/)
 
 ## My Page
  
