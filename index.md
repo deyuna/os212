@@ -2,10 +2,10 @@
  
 [HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/deyuna/os212/)
 
-## Page
+## My Page
  
-Welcome to my repository.
-My name is Deyuna Arham Rusmiland, nice to meet you.
+Welcome to my repository.<br>
+My name is Deyuna Arham Rusmiland, nice to meet you.<br>
 Feel free to take a look to my Repository.
 
 
