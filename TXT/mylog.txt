@@ -24,4 +24,9 @@ ZCZC W03  60 L05 Prepare OS Quiz
 ZCZC W03  60 L32 YouTube: study cyber security
 ZCZC W03  60 L22 OS Quiz 
 ZCZC W03  30 L26 Reading some information of C-language
+ZCZC W03  60 L00 Zoom OS related
 ZCZC W03  30 L03 Github Related
+ZCZC W03 100 L09 Assignment in general
+ZCZC W03  60 L06 Read OSC10 chapt 13 + chapt 14 + chapt 15
+ZCZC W03  30 L01 Answer OS Forum
+

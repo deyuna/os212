@@ -4,6 +4,8 @@ permalink: /LINKS/
 
 # LINKS
 
+## My 
+
 ## WEEK 01
 
 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
@@ -34,3 +36,11 @@ Big kudos!
 
 3. [Protection and Security in Operating System](https://www.youtube.com/watch?v=DKb7KhfoZmU)<br>
 This video helped me learning protection and security in operating system, I recommended you to watch this!
+
+## WEEK 03
+
+1. [Filesystem Organization](https://www.geeksforgeeks.org/file-organization-in-dbms-set-1/)</br>
+file system or filesystem (often abbreviated to fs) is a method and data structure that the operating system uses to control how data is stored and retrieved.
+
+2. [Files & Directories in Operating Systems: Structure, Organization & Characteristics](https://study.com/academy/lesson/files-directories-in-operating-systems-structure-organization-characteristics.html)</br>
+This course helped me to understand what is filesytem organization
