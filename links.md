@@ -2,11 +2,9 @@
 permalink: /LINKS/
 ---
 
-# LINKS
+# ✨  My LINKS 
 
-## My 
-
-## WEEK 01
+## 🍓  WEEK 01
 
 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
 This is one of my top favorite operating systems introduction videos. 
@@ -23,7 +21,7 @@ But I think this video much better than the other one because there's more expla
 This video helped me learning operating systems, 
 so you guys definitely must watch this vid!
 
-## WEEK 02
+## 🍓  WEEK 02
 
 1. [Introduction to C](https://www.youtube.com/watch?v=CPjZKsUYSXg)<br>
 At first, I don't have any idea what is C programming.
@@ -37,10 +35,18 @@ Big kudos!
 3. [Protection and Security in Operating System](https://www.youtube.com/watch?v=DKb7KhfoZmU)<br>
 This video helped me learning protection and security in operating system, I recommended you to watch this!
 
-## WEEK 03
+## 🍓  WEEK 03
 
 1. [Filesystem Organization](https://www.geeksforgeeks.org/file-organization-in-dbms-set-1/)</br>
 file system or filesystem (often abbreviated to fs) is a method and data structure that the operating system uses to control how data is stored and retrieved.
 
 2. [Files & Directories in Operating Systems: Structure, Organization & Characteristics](https://study.com/academy/lesson/files-directories-in-operating-systems-structure-organization-characteristics.html)</br>
 This course helped me to understand what is filesytem organization
+
+## 🍓  WEEK 04
+
+1. [The Linux System](https://www.os-book.com/OS10/slide-dir/)</br>
+From OS10 Chapt-09 i learn Linux is an open source operating system (OS). An operating system is the software that directly manages a system's hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work
+
+2. [Memory Map](https://www.youtube.com/watch?v=aT5XMOrid7Y)</br>
+memory map is a structure of data (which usually resides in memory itself) that indicates how memory is laid out. The term "memory map" can have different meanings in different contexts.

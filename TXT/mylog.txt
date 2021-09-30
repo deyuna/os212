@@ -29,4 +29,18 @@ ZCZC W03  30 L03 Github Related
 ZCZC W03 100 L09 Assignment in general
 ZCZC W03  60 L06 Read OSC10 chapt 13 + chapt 14 + chapt 15
 ZCZC W03  30 L01 Answer OS Forum
-
+ZCZC W04  60 L05 Prepare OS Quiz
+ZCZC W04  60 L32 Watching youtube for study
+ZCZC W04  60 L22 OS Quiz
+ZCZC W04  30 L26 Reading some information for Quiz related
+ZCZC W04  30 L01 Answer OS Forum
+ZCZC W04  60 L00 Zoom OS related
+ZCZC W04  30 L03 Github Related
+ZCZC W04  60 L06 Read OSC10 chapt 09                      
+ZCZC W04  60 L11 Assignment #01
+ZCZC W04  15 L14 Assignment #04
+ZCZC W04  30 L15 Assignment #05
+ZCZC WO4  30 L16 Assignment #06
+ZCZC W04  20 L17 Assignment #07
+ZCZC W04  20 L18 Assignment #08
+ZCZC W04  20 L19 Assignment #09
