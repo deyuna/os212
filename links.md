@@ -50,3 +50,11 @@ From OS10 Chapt-09 i learn Linux is an open source operating system (OS). An ope
 
 2. [Memory Map](https://www.youtube.com/watch?v=aT5XMOrid7Y)</br>
 memory map is a structure of data (which usually resides in memory itself) that indicates how memory is laid out. The term "memory map" can have different meanings in different contexts.
+
+## 🍓  WEEK 05
+
+1. [Windows 7 and BSD UNIX](https://www.os-book.com/OS10/slide-dir/)
+From OS10 Chapt-10 I read some information about Windows 7 and BSD UNIX. Windows 7 is a major release of the Windows NT operating system developed by Microsoft. The Berkeley Software Distribution or Berkeley Standard Distribution[1] (BSD) is a discontinued operating system based on Research Unix, developed and distributed by the Computer Systems Research Group (CSRG) at the University of California, Berkeley. The term "BSD" commonly refers to its descendants, including FreeBSD, OpenBSD, NetBSD, and DragonFly BSD.
+
+2. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+In computing, virtual memory, or virtual storage is a memory management technique that provides an "idealized abstraction of the storage resources that are actually available on a given machine" which "creates the illusion to users of a very large (main) memory".
