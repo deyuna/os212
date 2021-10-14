@@ -53,8 +53,19 @@ memory map is a structure of data (which usually resides in memory itself) that 
 
 ## 🍓  WEEK 05
 
-1. [Windows 7 and BSD UNIX](https://www.os-book.com/OS10/slide-dir/)
+1. [Windows 7 and BSD UNIX](https://www.os-book.com/OS10/slide-dir/)</br>
 From OS10 Chapt-10 I read some information about Windows 7 and BSD UNIX. Windows 7 is a major release of the Windows NT operating system developed by Microsoft. The Berkeley Software Distribution or Berkeley Standard Distribution[1] (BSD) is a discontinued operating system based on Research Unix, developed and distributed by the Computer Systems Research Group (CSRG) at the University of California, Berkeley. The term "BSD" commonly refers to its descendants, including FreeBSD, OpenBSD, NetBSD, and DragonFly BSD.
 
-2. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+2. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)</br>
 In computing, virtual memory, or virtual storage is a memory management technique that provides an "idealized abstraction of the storage resources that are actually available on a given machine" which "creates the illusion to users of a very large (main) memory".
+
+## 🍓  WEEK 06
+
+1. [Process Synchronization](https://www.os-book.com/OS10/slide-dir/)</br>
+From OS10 Chapt-03 I learn some information about Process Synchronization. Shortly, Process Synchronization is  is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources.
+
+2. [Memory Management](https://www.os-book.com/OS10/slide-dir/)</br>
+From OS10 Chapt-04 I learn some information about Memory Management. Shortly, Memory Management is Memory management is the process of controlling and coordinating computer memory, assigning portions called blocks to various running programs to optimize overall system performance
+
+3. [Process Mapping](https://www.youtube.com/watch?v=Y7g8vWv11Vk)</br>
+The process map is a tool that graphically shows the inputs, actions and outputs of a process in a clear, step-by-step map of the process. This is tollgate # 3 of Define in the DMAIC. 
