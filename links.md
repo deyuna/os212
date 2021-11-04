@@ -69,3 +69,14 @@ From OS10 Chapt-04 I learn some information about Memory Management. Shortly, Me
 
 3. [Process Mapping](https://www.youtube.com/watch?v=Y7g8vWv11Vk)</br>
 The process map is a tool that graphically shows the inputs, actions and outputs of a process in a clear, step-by-step map of the process. This is tollgate # 3 of Define in the DMAIC. 
+
+## 🍓  WEEK 07
+
+1. [C language playlist](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)</br>
+C is a general-purpose programming language that is extremely popular, simple, and flexible to use.
+
+2. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)</br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). 
+
+3. [Semaphore in C](https://www.youtube.com/watch?v=ukM_zzrIeXs)</br>
+Semaphores are very useful in process synchronization and multithreading
