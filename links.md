@@ -80,3 +80,15 @@ Fork system call is used for creating a new process, which is called child proce
 
 3. [Semaphore in C](https://www.youtube.com/watch?v=ukM_zzrIeXs)</br>
 Semaphores are very useful in process synchronization and multithreading
+
+## 🍓  WEEK 08
+
+1. [Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)</br>
+Introduction to Linux, good for understand the concept of Linux from Scratch.
+
+2. [Introduction of Storage Management](https://www.suse.com/suse-defines/definition/storage-management/#:~:text=Storage%20management%20refers%20to%20the,performance%20of%20data%20storage%20resources.&text=These%20processes%20help%20businesses%20store,requirements%2C%20and%20reduce%20IT%20expenses.)</br>
+The introduction of Storage management. Storage management refers to the software and processes that improve the performance of data storage resources
+
+3. [Operating System I/O](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)</br>
+An I/O system is required to take an application I/O request and send it to the physical device, then take whatever response comes back from the device and send it to the application. I/O devices can be divided into two categories 
+

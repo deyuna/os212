@@ -88,3 +88,15 @@ ZCZC W07  20 L17 Assignment #07
 ZCZC W07  20 L18 Assignment #08
 ZCZC W07  20 L19 Assignment #09
 ZCZC W07  20 L01 Contact os1.cs.ui.ac.id
+ZCZC W08  20 L01 Contact os1.cs.ui.ac.id
+ZCZC W08  60 L05 Prepare OS Quiz
+ZCZC W08  60 L22 OS Quiz
+ZCZC W08  60 L13 Assignment Week 08 (Try midterm problems)
+ZCZC W08  60 L00 Zoom OS related
+ZCZC W08  30 L03 Github Related
+ZCZC W08 120 L06 Read OS Chapt 5
+ZCZC W08 180 L14 Assignment #04
+ZCZC W08 300 L15 Assignment Week 08
+ZCZC W08  30 L18 Assignment #08
+ZCZC W08  30 L19 Assignment #09
+ZCZC W08  30 L20 Assignment #10
