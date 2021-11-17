@@ -92,3 +92,13 @@ The introduction of Storage management. Storage management refers to the softwar
 3. [Operating System I/O](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)</br>
 An I/O system is required to take an application I/O request and send it to the physical device, then take whatever response comes back from the device and send it to the application. I/O devices can be divided into two categories 
 
+## 🍓  WEEK 09 
+
+1. [The Definition of UEFI](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI#:~:text=Unified%20Extensible%20Firmware%20Interface%20(UEFI)%20is%20a%20specification%20for%20a,its%20operating%20system%20(OS).&text=Like%20BIOS%2C%20UEFI%20is%20installed,runs%20when%20booting%20a%20computer.)</br>
+Introduction to UEFI. Unified Extensible Firmware Interface (UEFI) is a specification for a software program that connects a computer's firmware to its operating system (OS). 
+
+2. [The Difference of UEFI and BIOS](https://www.easeus.com/partition-manager-software/uefi-vs-bios.html)</br>
+This article can help you to know the difference between these two. Anyone who want to know their computer is UEFI or BIOS can click and read this link.
+
+3. [Basic of OS Storage Structure](https://www.youtube.com/watch?v=YcRd3WMbXnE)</br>
+Introduction of Storage structure. Topic will be discussed in this video are Basics of Operating System, Storage Structure,  Hierarchy of Storage devices, Main memory and Secondary memory, Volatile and Non-Volatile devices
